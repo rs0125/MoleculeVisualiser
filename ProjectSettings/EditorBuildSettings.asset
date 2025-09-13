@@ -12,43 +12,43 @@ EditorBuildSettings:
     path: Assets/H20.unity
     guid: 6fa2aa2f79b83ca44abc3ca7235651d6
   - enabled: 1
-    path: Assets/Scenes/H2O.unity
+    path: Assets/Scenes/done/H2O.unity
     guid: c05db78e9ac958541aa072363b0e0e01
   - enabled: 1
-    path: Assets/Scenes/Boric.unity
+    path: Assets/Scenes/done/Boric.unity
     guid: 02141048c5d3a3444b3eb2dd54a985f3
   - enabled: 1
-    path: Assets/Scenes/Cyclohexane.unity
+    path: Assets/Scenes/done/Cyclohexane.unity
     guid: 87da81ee2b914294f89a38e9dc0b3378
   - enabled: 1
-    path: Assets/Scenes/HCN.unity
+    path: Assets/Scenes/done/HCN.unity
     guid: 101831f868f7838428f6c3ba86466f73
   - enabled: 1
-    path: Assets/Scenes/NH3.unity
+    path: Assets/Scenes/done/NH3.unity
     guid: 754545b091e2c0042944f87352acc88e
   - enabled: 1
-    path: Assets/Scenes/Cube.unity
+    path: Assets/Scenes/done/Cube.unity
     guid: 8652bd9b2c9824a4f9d120351aa52541
   - enabled: 1
-    path: Assets/Scenes/Eth_ChloBro.unity
+    path: Assets/Scenes/done/Eth_ChloBro.unity
     guid: d43e7b028208e194eac7a4cfcb6a3f2b
   - enabled: 1
-    path: Assets/Scenes/DiflouroDiazene.unity
+    path: Assets/Scenes/done/DiflouroDiazene.unity
     guid: 0a14e963e55eeac4ca6660d38cc43162
   - enabled: 1
-    path: Assets/Scenes/CO2.unity
+    path: Assets/Scenes/done/CO2.unity
     guid: 39c80a438cef89f47bc351d3751249c2
   - enabled: 1
-    path: Assets/Scenes/Fullerene.unity
+    path: Assets/Scenes/done/Fullerene.unity
     guid: 6ba7685fdd8aedc4a9592952dab50c38
   - enabled: 1
-    path: Assets/Scenes/SOCL.unity
+    path: Assets/Scenes/done/SOCL.unity
     guid: fec3036b5172785498e83fb599b88309
   - enabled: 1
-    path: Assets/Scenes/TetraCobalt.unity
+    path: Assets/Scenes/done/TetraCobalt.unity
     guid: ef9aecd63a2fab64ebca6101a330acc1
   - enabled: 1
-    path: Assets/Scenes/Methane.unity
+    path: Assets/Scenes/done/Methane.unity
     guid: 2fe1cb20e29684b4e86162b3968bbba3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
